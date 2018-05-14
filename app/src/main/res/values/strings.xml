@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayMusic-Service</string>
+    <string name="local_service_binding">Service Testing</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="Play">Play</string>
+    <string name="local_service_connected">Service Connected</string>
+    <string name="local_service_disconnected">Service DisConnected</string>
+
+</resources>
